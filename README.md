@@ -2,4 +2,3 @@
 
 Blog of Fox.ONE
 
-Welcome to Fox.ONE 
